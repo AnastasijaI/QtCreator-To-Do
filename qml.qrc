@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Background.qml</file>
+        <file>remove.png</file>
+        <file>TextEntry.qml</file>
+        <file>pencil.png</file>
+        <file>CustomListDelegate.qml</file>
+        <file>Circle.qml</file>
+        <file>ListHighlight.qml</file>
+    </qresource>
+</RCC>
